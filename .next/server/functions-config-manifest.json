@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "functions": {
+    "/.well-known/agent-card.json": {},
+    "/api/chat": {
+      "maxDuration": 120
+    },
+    "/api/documents/assist": {
+      "maxDuration": 120
+    },
+    "/api/documents/judge": {
+      "maxDuration": 120
+    },
+    "/api/a2a": {
+      "maxDuration": 120
+    },
+    "/api/documents/[documentId]": {
+      "maxDuration": 120
+    },
+    "/api/documents/save": {},
+    "/api/documents": {
+      "maxDuration": 120
+    },
+    "/api/schedules/[id]/run": {
+      "maxDuration": 120
+    }
+  }
+}
