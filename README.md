@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="docs/banner.png" alt="Agent City — local AI agents that run your files" width="100%">
+ <img width="1600" height="520" alt="image" src="https://github.com/user-attachments/assets/a309c7d0-49fb-4844-84e9-bf9cccaa5d13" />
+
 </p>
 
 <p align="center">
@@ -82,6 +83,7 @@ Agent City turns a normal folder into a small 3D town. Each building is an AI ag
 </p>
 
 How a chat request travels through the system:
+<img width="1800" height="1190" alt="image" src="https://github.com/user-attachments/assets/ad02aae9-b0f3-4a49-be5c-3f2c2a26f41f" />
 
 ```mermaid
 sequenceDiagram
