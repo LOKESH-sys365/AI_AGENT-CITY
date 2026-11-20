@@ -79,11 +79,11 @@ Agent City turns a normal folder into a small 3D town. Each building is an AI ag
 ## System design
 
 <p align="center">
-  <img src="docs/architecture.png" alt="Agent City system design" width="100%">
+  <img  src="https://github.com/user-attachments/assets/ad02aae9-b0f3-4a49-be5c-3f2c2a26f41f" alt="Agent City system design" width="100%">
 </p>
 
 How a chat request travels through the system:
-<img width="1800" height="1190" alt="image" src="https://github.com/user-attachments/assets/ad02aae9-b0f3-4a49-be5c-3f2c2a26f41f" />
+
 
 ```mermaid
 sequenceDiagram
